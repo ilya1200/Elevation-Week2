@@ -1,0 +1,22 @@
+{
+    "animals": {
+        "cat": {
+            "weigh": 10,
+            "units": "kg",
+            "live": "home",
+            "faveFoods": [
+                "milk",
+                "meat"
+            ],
+            "naturalPredators": [
+                "fox",
+                "wolf"
+            ],
+            "deliciousRate": {
+                "value": 1,
+                "minValue": 1,
+                "maxValue": 5
+            }
+        }
+    }
+}
